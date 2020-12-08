@@ -7,7 +7,8 @@
 3. php artisan migrate
 4. php artisan tinker
     >> factory(App\User::class, 20)->create();
-5. Run the project =)
+5. Create .env file
+6. Run the project =)
 
 ## License
 
